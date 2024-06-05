@@ -1,0 +1,14 @@
+plotly==5.22.0
+streamlit==1.33.0
+langchain==0.1.17
+langchain-community==0.0.36
+huggingface-hub>=0.19
+transformers==4.40.1
+torch==2.3.0
+# Dependencies to use HuggingFaceInstructEmbeddings()
+sentence-transformers==2.2.2
+InstructorEmbedding==1.0.1
+
+tiktoken==0.6.0
+faiss-cpu==1.8.0
+
