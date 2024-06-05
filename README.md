@@ -33,7 +33,7 @@ Welcome to the AI Equity Advisor! This solution aims to revolutionize the invest
 ## Getting Started 
 1. To ensure smooth execution of our code, we recommend you to access our AI Equity Advisor tool via. the Hugging Face Hub [here](https://huggingface.co/spaces/GenInstigators/NLFF-AIChallenge). This will help prevent any potential conflicts with libraries on a local setup and ensure optimal performance.
 2. Alternatively, you can run our Streamlit app by navigating to the directory containing `app.py` in your terminal and execute the command: streamlit run app.py.
-4. We have embedded the inference model results of test data already in the app.py file. However,to utilize the GenAI module for recommendation inference in real time, ensure to execute the ["GenAI_recommendation_model_inference"](https://github.com/Huma-Ameer10/2024-AI-Challenge-GenInstigators/blob/main/GenAI_recommendation_model_inference.ipynb) notebook with GPU access enabled.
+4. We have embedded the inference model results of test data already in the app.py file. However,to utilize the GenAI module for recommendation inference in real time, ensure to execute the ["GenAI_recommendation_model_inference"](https://github.com/sahar-arshad/AI-Equity-Advisor/blob/main/GenAI_recommendation_model_inference.ipynb) notebook with GPU access enabled.
 
 ## Steps Guide
 
