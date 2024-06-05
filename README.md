@@ -1,5 +1,3 @@
-# 2024 AI Challenge- GenInstigators
-
 # AI Equity Advisor
 
 ## Table of contents
@@ -12,7 +10,7 @@
   
 ## Introduction 
 
-Welcome to the AI Equity Advisor! Our solution aims to revolutionize the investment recommendation process for financial stakeholders, providing transparency, efficiency, and accuracy in decision-making. By combining real-time analysis of news based event impacts in conjuction with technical indicators, our tool offers well-informed stock recommendations in the dynamic stock market environment.
+Welcome to the AI Equity Advisor! This solution aims to revolutionize the investment recommendation process for financial stakeholders, providing transparency, efficiency, and accuracy in decision-making. By combining real-time analysis of news based event impacts in conjuction with technical indicators, our tool offers well-informed stock recommendations in the dynamic stock market environment.
 
 ## Features
 
@@ -57,8 +55,4 @@ Welcome to the AI Equity Advisor! Our solution aims to revolutionize the investm
 6. <b>Ask AI Advisor</b> allows the user to have an instant guide on a matter of investment from an AI powered Stock Advisor.
 
    ![CHAT](https://github.com/Huma-Ameer10/2024-AI-Challenge-GenInstigators/assets/88269723/50ce3548-7cc4-477a-8d78-08d4037a21a6) 
-
-## Feedback
-
-We value your feedback! If you have any query or suggestion, you may contact us at [gen.instigators@gmail.com](mailto:email@example.com).
 
