@@ -5,8 +5,6 @@
 * [Features](#features)
 * [Technologies](#technologies)
 * [Getting Started](#getting-started)
-* [Steps Guide](#steps-guide)
-* [Feedback](#feedback)
   
 ## Introduction 
 
